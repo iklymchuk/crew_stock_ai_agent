@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbf1f1a8-cb3c-4f73-8a8c-58da9a4e84b3" width="50%" />
+</p>
+
 # MyStockPicker
 
 ## Goal
