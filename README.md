@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/fbf1f1a8-cb3c-4f73-8a8c-58da9a4e84b3" width="50%" />
 </p>
 
-# MyStockPicker
+# Crew stock AI Agent
 
 ## Goal
 crew_stock_ai_agent is an agent-based prototype that discovers and evaluates promising publicly traded companies by scanning current news, performing targeted financial research, generating concise reports, and delivering short notifications via Telegram. The end goal is to help a user quickly identify and justify one investable idea each run.
